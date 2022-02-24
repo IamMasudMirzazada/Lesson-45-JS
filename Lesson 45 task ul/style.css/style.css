@@ -1,0 +1,15 @@
+button{
+ 
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 5px ;
+    color: white;
+}
+.fa-solid{
+    padding-left: 15px;
+    color: red;
+}
+#btn2{
+    background-color: red;
+}

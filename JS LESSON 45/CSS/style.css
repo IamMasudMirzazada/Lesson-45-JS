@@ -1,0 +1,26 @@
+*{
+    user-select: none;
+}
+img{
+    width: 100%; 
+}
+#slider{
+position: relative; 
+}
+#slider div{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(232, 235, 23, 0.808);
+    color: white;
+    font-size: 25px;
+    border-radius: 50%;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+.next{
+    right: 20px;
+}
+.back{
+    left: 20px;
+}
